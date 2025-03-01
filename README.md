@@ -13,6 +13,9 @@ Projekt został przygotowany jako część PoC systemu do analizy obrazowych dan
 - **chest_xray_pneumonia.ipynb**  
   Notatnik zawierający analizę rentgenowską klatki piersiowej w kontekście wykrywania zapalenia płuc.
 
+- **breast_cancer_image_calssification_effecientb3_pdr**  
+  Notatnik prezentujący próbę wykorzystania modelu bazowego do analizy danych USG piersi w kontekście wykrywania raka piersi.  
+
 ## Jak rozpocząć
 
 1. Sklonuj repozytorium:
