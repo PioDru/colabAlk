@@ -14,7 +14,11 @@ Projekt został przygotowany jako część PoC systemu do analizy obrazowych dan
   Notatnik zawierający analizę rentgenowską klatki piersiowej w kontekście wykrywania zapalenia płuc.
 
 - **breast_cancer_image_calssification_effecientb3_pdr.ipynb**  
-  Notatnik prezentujący próbę wykorzystania modelu bazowego do analizy danych USG piersi w kontekście wykrywania raka piersi.  
+  Notatnik prezentujący próbę wykorzystania modelu bazowego do analizy danych USG piersi w kontekście wykrywania raka piersi.
+
+- **usgValidFilenames.csv**
+  Plik CSV zawierajacy liste plików z datasetu USG, co do których nie było watpliwości w pracy: https://www.sciencedirect.com/science/article/pii/S2352340923003669
+  
 
 ## Jak rozpocząć
 
